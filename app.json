@@ -1,7 +1,7 @@
 
 
 {
-  "name": "WHATSAPP BOT",
+  "name": "JEEPERS CREEPER",
   "description": "Best WhatsApp bot developed by sir bravin",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/4n1tap.jpg",
@@ -31,7 +31,7 @@
     },
     "REPLY_STATUS_TEXT": {
       "description": "Enter here your message for your bot to notify people that you have viewed there status",
-      "value": "ʏᴏᴜʀ sᴛᴀᴛᴜs ʜᴀᴠᴇ ʙᴇᴇɴ ᴠɪᴇᴡᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ✅",
+      "value": "your status have been viewed successfully by jeepers creeper",
       "required": false
     },
     "AUTO_READ_STATUS": {
@@ -51,12 +51,12 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "WHATSAPP BOT",
+      "value": "JEEPERS CREEPER",
       "required": false
     },
     "BOT_URL": {
       "description": "Image or video url for your bot menu",
-      "value": "https://files.catbox.moe/znf8ns.mp4,https://files.catbox.moe/xxmc49.mp4",
+      "value": "https://files.catbox.moe/fmvdzh.mp4,https://files.catbox.moe/fh2ndl.mp4",
       "required": false
     },
     "PUBLIC_MODE": {
