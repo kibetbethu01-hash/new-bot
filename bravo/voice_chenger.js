@@ -6,11 +6,11 @@
 
 const axios = require('axios');
 const cheerio = require('cheerio');
-const adams = require(__dirname + "/../config");
+const bravo = require(__dirname + "/../config");
 
 async function fetchVOICE_CHENGERUrl() {
   try {
-    const response = await axios.get(adams.BWM_XMD);
+    const response = await axios.get(adams.Jeepers_creeper);
     const $ = cheerio.load(response.data);
 
     const targetElement = $('a:contains("VOICE_CHENGER")');
